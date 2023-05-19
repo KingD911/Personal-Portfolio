@@ -190,7 +190,7 @@ nav ul li a:hover::after{
     margin-bottom: 15px;
  }
 
-c a{
+ .services-list div a{
     text-decoration: none;
     color: #fff;
     font-size: 12px;
